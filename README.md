@@ -1,2 +1,8 @@
 # PickUp2.0
-Helping you to find next pick up game without effort
+
+Bringing the community together. One game at a time.
+
+### About
+
+
+### Team
